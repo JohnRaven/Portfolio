@@ -1,0 +1,14 @@
+@import 'libs/bootstrap-reboot.min';
+@import 'libs/fonts';
+
+@import 'base/null';
+@import 'base/variables';
+@import 'base/mixins';
+
+* {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+}
+
